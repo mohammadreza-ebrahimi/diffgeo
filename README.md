@@ -6,6 +6,7 @@
 
 This is the repo contians very important and useful mathematica _file.nb_ which is used for tensor calculus. Anyone who is working on ***General Relativity*** can uses this.
 I have used the **diffgeo** package in order to evaluate <font color='blue'> **Riemann (curvature)**</font>, **Ricci** tensor and also **RicciScalar** for [schwarzschild](https://en.wikipedia.org/wiki/Schwarzschild_metric) black holes as a simple example. 
+In another one, again, I have evaluated aformentioned tensors for cosmology metric, **FRW** and showed metric contraction.  
 
 Furthermore, it can be used for various tensor calculations like **Covariant Derivative (CD)** and differential forms such as
 
