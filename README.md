@@ -17,4 +17,8 @@ Furthermore, it can be used for various tensor calculations like **Covariant Der
 
 Moreover, some other tensors are available in **diffgeo** where you can see and learn them easily in this repository. 
 
+## Runnig diffgeo on Window\Linux\MacOs
+
+That so easy. Just copy and paste ***difgeo.m*** in a _directory_. Then for runnig kernel with diffgeo package, you just need to use mathematica command ***SetDirectory["your diffgeo.m directory"]***. It will be run.
+
 Please [cantact](mailto:m.reza.ebrahimi1995@gmail.com) me if you have any question.
