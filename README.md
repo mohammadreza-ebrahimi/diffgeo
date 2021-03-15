@@ -5,7 +5,7 @@
 > A package for doing GR-type tensor algebra and calculus. Compared to other such packages I know, it is easy to use and fairly comprehensive in the number of functions defined. "_Matthew Headrick_"
 
 This is the repo contians very important and useful mathematica _file.nb_ which is used for tensor calculus. Anyone who is working on ***General Relativity*** can uses this.
-I have used the package called **diffgeo** for evaluate <font color='blue'> **Riemann (curvature)**</font>, **Ricci** tensor and also **RicciScalar** for [schwarzschild](https://en.wikipedia.org/wiki/Schwarzschild_metric) black holes as an simple example. 
+I have used the package called **diffgeo** for evaluate <font color='blue'> **Riemann (curvature)**</font>, **Ricci** tensor and also **RicciScalar** for [schwarzschild](https://en.wikipedia.org/wiki/Schwarzschild_metric) black holes as a simple example. 
 
 Furthermore, it can be used for various tensor calculations like **Covariant Derivative (CD)** and differential forms such as
 
